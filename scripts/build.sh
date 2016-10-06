@@ -56,4 +56,4 @@ rm dist/dygraph.tmp.js
 rm dist/dygraph.tmp.js.map
 
 # Copy ccs to dist folder
-cp css/dygraphs.css dist/
+cp css/dygraph.css dist/
