@@ -54,3 +54,6 @@ jar -cf dist/dygraph-gwt.jar -C gwt org
 # Remove temp files.
 rm dist/dygraph.tmp.js
 rm dist/dygraph.tmp.js.map
+
+# Copy ccs to dist folder
+cp css/dygraphs.css dist/
